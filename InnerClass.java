@@ -1,4 +1,5 @@
 package java;
+
 public class InnerClass {
     void show(){
         System.out.println("in InnerClass");
