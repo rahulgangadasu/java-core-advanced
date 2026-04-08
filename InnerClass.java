@@ -16,7 +16,6 @@ public class InnerClass {
         }
         public static void main(String[] args) {
             InnerClass.InnerClass1.InnerClass2 in = new InnerClass().new InnerClass1().new InnerClass2();
-        
             in.show();
         }
     }
