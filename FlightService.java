@@ -1,4 +1,4 @@
-package java;
+package java_code;
 
 import java.util.List;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package java;
+package java_code;
 
 public class LongTask {
    public static void simulate(){

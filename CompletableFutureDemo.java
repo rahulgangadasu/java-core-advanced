@@ -1,5 +1,4 @@
-package java;
-
+package java_code;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.function.Supplier;

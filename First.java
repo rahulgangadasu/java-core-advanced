@@ -1,4 +1,5 @@
-package java;
+package java_code;
+
 import java.util.Scanner;
 
 class First{

@@ -1,4 +1,5 @@
-package java;
+package java_code;
+
 public class J_arrays {
     public static void main(String[] args) {
         int nums [][] = new int [4][3];

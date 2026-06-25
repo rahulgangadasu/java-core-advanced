@@ -1,4 +1,4 @@
-package java;
+package java_code;
 
 public class Movie {
     private String title;

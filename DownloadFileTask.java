@@ -1,4 +1,4 @@
-package java;
+package java_code;
 
 public class DownloadFileTask implements Runnable{
     private DownloadStatus status;

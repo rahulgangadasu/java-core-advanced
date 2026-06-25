@@ -1,4 +1,4 @@
-package java;
+package java_code;
 
 import java.time.Duration;
 import java.time.LocalTime;
